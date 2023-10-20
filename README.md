@@ -1,4 +1,4 @@
-# Data Augmentation using Deep Learning with Keras
+# Data Augmentation 
 
 This repository provides a Python implementation for data augmentation using deep learning techniques with the Keras library. Data augmentation is a crucial step in training deep learning models, as it helps increase the diversity and size of the training dataset, which in turn can improve model generalization and performance. This README will guide you through the setup, usage, and customization of the data augmentation techniques provided in this repository.
 
